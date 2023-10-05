@@ -1,0 +1,14 @@
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ061023\DZ061023\bin\Debug\net6.0\DZ061023.exe
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ061023\DZ061023\bin\Debug\net6.0\DZ061023.deps.json
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ061023\DZ061023\bin\Debug\net6.0\DZ061023.runtimeconfig.json
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ061023\DZ061023\bin\Debug\net6.0\DZ061023.dll
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ061023\DZ061023\bin\Debug\net6.0\DZ061023.pdb
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ061023\DZ061023\obj\Debug\net6.0\DZ061023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ061023\DZ061023\obj\Debug\net6.0\DZ061023.AssemblyInfoInputs.cache
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ061023\DZ061023\obj\Debug\net6.0\DZ061023.AssemblyInfo.cs
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ061023\DZ061023\obj\Debug\net6.0\DZ061023.csproj.CoreCompileInputs.cache
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ061023\DZ061023\obj\Debug\net6.0\DZ061023.dll
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ061023\DZ061023\obj\Debug\net6.0\refint\DZ061023.dll
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ061023\DZ061023\obj\Debug\net6.0\DZ061023.pdb
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ061023\DZ061023\obj\Debug\net6.0\DZ061023.genruntimeconfig.cache
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ061023\DZ061023\obj\Debug\net6.0\ref\DZ061023.dll
