@@ -1,0 +1,14 @@
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ_27_10_23\DZ_27_10_23\bin\Debug\net6.0\DZ_27_10_23.exe
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ_27_10_23\DZ_27_10_23\bin\Debug\net6.0\DZ_27_10_23.deps.json
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ_27_10_23\DZ_27_10_23\bin\Debug\net6.0\DZ_27_10_23.runtimeconfig.json
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ_27_10_23\DZ_27_10_23\bin\Debug\net6.0\DZ_27_10_23.dll
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ_27_10_23\DZ_27_10_23\bin\Debug\net6.0\DZ_27_10_23.pdb
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ_27_10_23\DZ_27_10_23\obj\Debug\net6.0\DZ_27_10_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ_27_10_23\DZ_27_10_23\obj\Debug\net6.0\DZ_27_10_23.AssemblyInfoInputs.cache
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ_27_10_23\DZ_27_10_23\obj\Debug\net6.0\DZ_27_10_23.AssemblyInfo.cs
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ_27_10_23\DZ_27_10_23\obj\Debug\net6.0\DZ_27_10_23.csproj.CoreCompileInputs.cache
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ_27_10_23\DZ_27_10_23\obj\Debug\net6.0\DZ_27_10_23.dll
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ_27_10_23\DZ_27_10_23\obj\Debug\net6.0\refint\DZ_27_10_23.dll
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ_27_10_23\DZ_27_10_23\obj\Debug\net6.0\DZ_27_10_23.pdb
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ_27_10_23\DZ_27_10_23\obj\Debug\net6.0\DZ_27_10_23.genruntimeconfig.cache
+C:\Users\Кашалот\Desktop\СишарпИпрочийХлам\NumeroUnno\DZ_27_10_23\DZ_27_10_23\obj\Debug\net6.0\ref\DZ_27_10_23.dll
